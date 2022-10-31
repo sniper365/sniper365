@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <a target="blank" href="https://profile-counter.glitch.me/comwonderfula/count.svg"><img src="https://profile-counter.glitch.me/comwonderfula/count.svg" /></a>
-![GitHub Views](https://komarev.com/ghpvc/?username=<username>)
+![GitHub Views](https://komarev.com/ghpvc/?username=sniper365)
 
 
 
