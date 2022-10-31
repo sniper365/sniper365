@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 ![Vamsi's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sniper365&hide=Roff&bg_color=DEG,5A2B7A,9D1B27,A57434&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact&include_all_commits=true&count_private=true&card_width=350) 
 
 
-<h2> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=30px> Connect with me  </h2>
+<p align="center"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="100px" height=60px> </p>
 
