@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 
 ![Sniper565's github stats](https://github-readme-stats.vercel.app/api?username=sniper365&count_private=true&show_icons=true&bg_color=DEG,5A2B7A,9D1B27,A57434&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact&include_all_commits=true&line_height=20&card_width=400)
 ![Sniper365's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sniper365&hide=Roff&bg_color=DEG,5A2B7A,9D1B27,A57434&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact&include_all_commits=true&count_private=true&card_width=300) 
-![Sniper365's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sniper365&hide=Roff&bg_color=DEG,5A2B7A,9D1B27,A57434&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact&include_all_commits=true&count_private=true&card_width=300) 
-
 
 
 <p align="center"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="100px" height=60px> </p>
