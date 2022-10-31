@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <a target="blank" href="https://profile-counter.glitch.me/comwonderfula/count.svg"><img src="https://profile-counter.glitch.me/comwonderfula/count.svg" /></a>
+[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
 
 
 ![Vamsi's github stats](https://github-readme-stats.vercel.app/api?username=sniper365&count_private=true&show_icons=true&bg_color=DEG,5A2B7A,9D1B27,A57434&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact&include_all_commits=true&line_height=20&card_width=350)
