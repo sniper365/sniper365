@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![MOVE](https://img.shields.io/badge/MOVE-00ADD8?style=for-the-badge&logo=move&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-00ADD8?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-888888?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Saas-33599C?style=for-the-badge&logo=sass&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-33599C?style=for-the-badge&logo=sass&logoColor=white)
 
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
