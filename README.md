@@ -24,16 +24,16 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C%2B%2B-66599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-888888?style=for-the-badge&logo=php&logoColor=white)
-### Others
 ![Ruby](https://img.shields.io/badge/Ruby-33599C?style=for-the-badge&logo=ruby&logoColor=white)
-![Move](https://img.shields.io/badge/Move-55ADD8?style=for-the-badge&logo=move&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white)
-<!--
-![Artem's github stats](https://github-readme-stats.vercel.app/api?username=sniper365&count_private=true&show_icons=true) 
-![Artem's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sniper365&theme=blue-green)
-!Pro
 
--->
+### Others
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+
+
+#<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<a target="blank" href="https://profile-counter.glitch.me/comwonderfula/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/comwonderfula/count.svg" /></a>
 
 
 ![Vamsi's github stats](https://github-readme-stats.vercel.app/api?username=sniper365&count_private=true&show_icons=true&bg_color=DEG,5A2B7A,9D1B27,A57434&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact&include_all_commits=true&line_height=20&card_width=350)
