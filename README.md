@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+### Others
+![Ruby](https://img.shields.io/badge/Ruby-33599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 <!--
 ![Artem's github stats](https://github-readme-stats.vercel.app/api?username=sniper365&count_private=true&show_icons=true) 
 ![Artem's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sniper365&theme=blue-green)
