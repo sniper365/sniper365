@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
+<!--
 ![Artem's github stats](https://github-readme-stats.vercel.app/api?username=sniper365&count_private=true&show_icons=true) 
 ![Artem's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sniper365&theme=blue-green)
 !Pro
 
-
+-->
 
 
 ![Vamsi's github stats](https://github-readme-stats.vercel.app/api?username=sniper365&count_private=true&show_icons=true&bg_color=DEG,5A2B7A,9D1B27,A57434&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact&include_all_commits=true&line_height=20&card_width=350)
