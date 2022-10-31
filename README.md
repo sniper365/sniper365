@@ -25,14 +25,13 @@ Here are some ideas to get you started:
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-888888?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-33599C?style=for-the-badge&logo=ruby&logoColor=white)
+![MOVE](https://img.shields.io/badge/MOVE-00ADD8?style=for-the-badge&logo=move&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-00ADD8?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-888888?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Saas-33599C?style=for-the-badge&logo=sass&logoColor=white)
 
-### Others
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
-
-#<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <a target="blank" href="https://profile-counter.glitch.me/comwonderfula/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/comwonderfula/count.svg" /></a>
 
 
