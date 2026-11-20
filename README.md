@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 -->
 
-#Senior Full Stack Software Engineer
+# Senior Full Stack Software Engineer
 
-##Full-stack development | Backend APIs | Cloud & Distributed Systems | AI Integration
+## Full-stack development | Backend APIs | Cloud & Distributed Systems | AI Integration
 
 ### Top Favorite Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
